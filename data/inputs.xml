@@ -5,7 +5,7 @@
             <input name="UAPVEZOpenAdminMenu" loc="PVEZ admin GUI"/>
         </actions>
         		<sorting name="WarZ Admin" loc="WarZ Admin">
-			<input name="UAOpenWeelderAdminMenu" />
+			<input name="UAPVEZOpenAdminMenu" />
 		</sorting>
     </inputs>
 
